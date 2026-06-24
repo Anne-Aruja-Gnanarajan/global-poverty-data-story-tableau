@@ -1,4 +1,4 @@
-Aim: To provide a data visualisation portfolio (and story) for Australian NGOs and non-profitnorganisations to:
+Aim: To provide a data visualisation portfolio (and story) for Australian NGOs and non-profit organisations to:
 1. Help make strategic decisions about where to allocate resources / funding
 2. Help educate potential sponsors about strategic priorities
 
